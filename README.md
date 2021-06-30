@@ -1,4 +1,4 @@
-# Redux Practice
+# Redux Practice / Redux Counter
 
 Some Redux practice. I've practiced before, but I don't mind a redux. 
 
